@@ -7,8 +7,8 @@ Cos I em cademonkey from Rassia.
 # Part 3. DOCUMENTATION
 Code for interpreter should containts in files with .br extension.
 Program should starts from "anoo" (without ", of course), ends with "vdamke" (without ", of course)
-Operators, operators, operators:
-anoo - CONSTRUCTOR
-ch - write "CHEEKI"
-br - write "BREEKI"
-vdamke - DESTRUCTOR
+# Operators, operators, operators:
+* anoo - CONSTRUCTOR
+* ch - write "CHEEKI"
+* br - write "BREEKI"
+* vdamke - DESTRUCTOR
